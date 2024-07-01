@@ -2,7 +2,7 @@
 
 ---
 <picture>
-    <img align="right" width=40% src="./images/gif/gopher.gif" alt="Gopher" />
+    <img align="right" style="margin-right: 50px;" width=40% src="./images/gif/gopher.gif" alt="Gopher" />
 </picture>
 
 - 👋 Hi, I'm MagicGopher.
@@ -10,10 +10,10 @@
 - 🚀 Works with Go, Java, Python and C++.
 - 🔭 Exploring new technologies and frameworks.
 - 📝 Documenting my daily development work in a blog.
-- 📫 Contact me by email: [gopher997@gmail.com](mailto:gopher997@gmail.com).
+- 📫 Contact me by email: [gopher997@gmail.com](mailto:gopher997@gmail.com)
 ---
 
-<p style="display: flex; justify-content: space-between;">
-    <img style="height: auto; width: 59%" src="https://github-readme-stats.vercel.app/api?username=MagicGopher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=0,FF69B4,FFD700,00FA9A&theme=graywhite&locale=en" >
-    <img style="height: auto; width: 39%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicGopher&hide_title=true&hide_border=true&layout=compact&bg_color=0,00FA9A,FFD700,FF69B4&theme=graywhite&locale=en" >
-</p>
+<div style="display: flex; width: auto; align-items: center;">
+    <img style="width: 59%; height: 155px;" src="https://github-readme-stats.vercel.app/api?username=MagicGopher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,ff1493,ffa500,ffff00,52fa5a&theme=graywhite" >
+    <img style="width: 39%; height: 155px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicGopher&hide_title=true&hide_border=true&layout=compact&bg_color=0,52fa5a,00bfff,00ffff,9932cc&theme=graywhite" >
+</div>
